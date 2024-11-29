@@ -25,12 +25,12 @@ cd <repository-name>
 2) CREATE DATABASE janitri;
 3) Update the src/main/resources/application.properties file with your MySQL details:
 
-   spring.datasource.url=jdbc:mysql://localhost:3306/janitri
-   spring.datasource.username=<your-mysql-username>
-   spring.datasource.password=<your-mysql-password>
-   spring.jpa.hibernate.ddl-auto=update
-   spring.jpa.show-sql=true
-   spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+spring.datasource.url=jdbc:mysql://localhost:3306/janitri
+spring.datasource.username=<your-mysql-username>
+spring.datasource.password=<your-mysql-password>
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 
 **Step 3: Build the Project**
 1) build the project using **ctrl+F9**
