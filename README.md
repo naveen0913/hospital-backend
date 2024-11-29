@@ -24,7 +24,8 @@ cd <repository-name>
 1) Start your MySQL server in local.
 2) CREATE DATABASE janitri;
 3) Update the src/main/resources/application.properties file with your MySQL details:
-4) spring.datasource.url=jdbc:mysql://localhost:3306/janitri
+
+   spring.datasource.url=jdbc:mysql://localhost:3306/janitri
    spring.datasource.username=<your-mysql-username>
    spring.datasource.password=<your-mysql-password>
    spring.jpa.hibernate.ddl-auto=update
