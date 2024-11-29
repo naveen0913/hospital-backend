@@ -1,0 +1,16 @@
+com\janitri\backend\model\HeartRate.class
+com\janitri\backend\model\User.class
+com\janitri\backend\repository\UserRepository.class
+com\janitri\backend\DTO\LoginDTO.class
+com\janitri\backend\repository\HeartRateRepository.class
+com\janitri\backend\repository\PatientRepository.class
+com\janitri\backend\service\PatientService.class
+com\janitri\backend\controller\UserController.class
+com\janitri\backend\response\ApiResponse.class
+com\janitri\backend\response\Exception\ErrorHandling.class
+com\janitri\backend\service\UserService.class
+com\janitri\backend\controller\HeartRateController.class
+com\janitri\backend\model\Patient.class
+com\janitri\backend\BackendApplication.class
+com\janitri\backend\service\HeartRateService.class
+com\janitri\backend\controller\PatientController.class
