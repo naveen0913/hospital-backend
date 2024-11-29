@@ -7,6 +7,10 @@ This is a Java Spring Boot project built using Spring Boot 3.1.x (Java 21) and c
 Built using Spring Boot 3.1.x.
 MySQL integration for data persistence.
 
+**API Documentation**
+1) I have prepared the REST APIs for the users , patients and their heart rates.
+2) I have used Mapping with each other , mapped heart rate with the patients data , So if heart rate test will happen only patient data will be present.
+
 **Prerequisites**
 Ensure you have the following installed before running the application:
 
