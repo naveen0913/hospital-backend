@@ -1,4 +1,4 @@
-# hospital-backend
+# hospital-system-backend
 
 **Overview**
 This is a Java Spring Boot project built using Spring Boot 3.1.x (Java 21) and connected to a MySQL database. The project serves as a starting point for building RESTful APIs or any backend services.
